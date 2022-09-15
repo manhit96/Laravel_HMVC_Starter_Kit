@@ -10,6 +10,7 @@
     "require": {
         "php": "^8.0|^8.1",
         "guzzlehttp/guzzle": "^7.5",
+        "laracasts/flash": "^3.2",
         "laravel/framework": "^9.30",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",

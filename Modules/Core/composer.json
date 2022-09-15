@@ -1,0 +1,22 @@
+{
+    "name": "manhit96/core",
+    "description": "",
+    "authors": [
+        {
+            "name": "ManhDV",
+            "email": "manhit96@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Core\\": ""
+        }
+    }
+}
