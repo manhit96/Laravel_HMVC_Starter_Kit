@@ -26,8 +26,8 @@ return [
     */
 
     'stubs' => [
-        'enabled' => false,
-        'path' => base_path('vendor/nwidart/laravel-modules/src/Commands/stubs'),
+        'enabled' => true,
+        'path' => base_path('stubs/module'),
         'files' => [
             'routes/web' => 'Routes/web.php',
             'routes/api' => 'Routes/api.php',
@@ -137,7 +137,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | Here you can define which commands will be visible and used in your
-    | application. If for example you don't use some of the commands provided
+    | application. If for example you don't use some commands provided
     | you can simply comment them out.
     |
     */
